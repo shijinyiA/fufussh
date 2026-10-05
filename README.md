@@ -1,5 +1,5 @@
 # 芙芙云 Web SSH Terminal (fufussh) 2.0
-
+－ 此版本为普通版无任何后续维护，且如有[魔方财务端]需求请购买专业版3.0 芙云ssh[fufussh购买](https://www.fufuidc.com/cart?fid=22&gid=148)
 一个基于 Web 的 SSH 终端管理面板，支持服务器管理、在线终端、文件管理（SFTP）、硬件监控、连接分享与直连等功能。
 
 ## 功能特性
